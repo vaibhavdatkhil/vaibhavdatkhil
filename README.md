@@ -25,9 +25,11 @@
 ---
 
 ### 🚀 Projects
-- 🏨 Hostel Management System (Java + Swing)
-- 🌐 Hotel Management Website (MERN Stack)
-- 🌾 AI-Based Crop Monitoring System
+<ul>
+  <li>🏨 Hostel Management System (Java + Swing)</li>
+  <li>🌐 Hotel Management Website (MERN Stack)</li>
+  <li>🌾 AI-Based Crop Monitoring System</li>
+</ul>
 
 ---
 
@@ -42,30 +44,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdatkhil&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavdatkhil&theme=onedark&row=1&column=6" />
-</p>
-
----
-
-### 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavdatkhil&theme=react-dark" />
-</p>
-
----
-
-### ⚡ Fun Fact
-💡 I love building real-world projects and learning new technologies every day!
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavdatkhil&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
